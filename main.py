@@ -8,3 +8,4 @@ if __name__ == '__main__':
 
 
 print('new version')
+print('new version 2')
